@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Still Loading... But Already Building <img src="./working.gif" width="30px" />
+# Still Loading... But Already Building <img src="./working.gif" width="50px" />
 
 </div>
 
