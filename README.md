@@ -24,29 +24,25 @@ I turn ideas into working software that people actually want to use. I began wit
 
 ## 🔥 Featured Projects
 
-### 📱 [ClassSync - Smart Attendance](https://github.com/ShalomDee/Classync)
-**SwiftUI | Firebase | CoreLocation**  
-Privacy-first iOS app for automated classroom attendance using proximity detection. **Currently being implemented at Grambling State University.**
-- 📍 Proximity Detection via Nearby Interaction
-- 🔐 Secure Auth via Firebase & FaceID  
-- 📊 Live Student Dashboards
-- 🎨 Elegant, Accessible UI
+### 🤖 [Multilingual LLM Evaluation](https://github.com/ShalomDee/multilingual-eval)
+**Python | RAG | Claude/OpenAI/Gemini/Ollama APIs**  
+Comprehensive RAG-based evaluation system comparing four leading LLMs across multilingual translation tasks using 9,322 Wikipedia chunks and 400 translation pairs in 4 languages.
+
+### 📱 [ClassSync - Smart Attendance](https://github.com/AdrDube/Classync)
+**SwiftUI | Firebase | CoreLocation | Nearby Interaction**  
+Privacy-first iOS app automating classroom attendance through proximity detection via Nearby Interaction, Firebase/FaceID authentication, and live student dashboards.
+
+### 🐦 [ALAN Bird Migration Study](https://github.com/tatendakasirori/AI_4_ALL_project)
+**Python | XGBoost | Jupyter | Geospatial Analysis**  
+Machine learning investigation analyzing 1,542 nights of radar, satellite, and weather data to quantify how Artificial Light at Night affects nocturnal bird migration behavior in urban environments.
 
 ### 🎮 [Space Explorer](https://github.com/ShalomDee/space-explorer)
 **React | Node.js | MongoDB | NASA APIs**  
-Interactive web app for exploring NASA's APOD with favorites collection and space knowledge quizzes.
+Full-stack web application integrating NASA's APOD API with MongoDB to browse daily astronomy images, save favorites, and test space knowledge through interactive quizzes.
 
-### 🎬 [Movie GIF Generator](https://github.com/ShalomDee/movie-gif-generator)
-**Next.js | React | Axios**  
-Generate GIFs from movie scenes with real-time API integration. Built to dive deeper into API handling and async operations.
-
-### 🍽️ [Pantry Tracker](https://github.com/ShalomDee/Pantry-Tracker)
-**Next.js | React | Firebase Firestore**  
-Real-time pantry inventory management with mock mode for demos. Features local filtering and Material UI components.
-
-### 🎭 [Shakespearean Poetry Generator](https://github.com/ShalomDee/Poetic-Phrase-Generator)
-**FastAPI | Hugging Face Transformers | Vanilla JS**  
-Local Shakespeare model that generates personalized verse with no API limits. Uses Unsplash integration for visual flair.
+### 🏥 [AidPoint](https://github.com/ShalomDee/aidpoint)
+**React | Service Workers | PWA | Google Maps API**  
+Offline-first Progressive Web App providing immediate access to critical emergency resources (nearby hospitals, shelters, police stations, and food banks), with full functionality during network disruptions.
 
 ---
 
