@@ -117,10 +117,6 @@ Local Shakespeare model that generates personalized verse with no API limits. Us
 
 ### "Code that clicks. Design that sticks."
 
-*Still loading... but already building.*<img src="./working.gif" width="25px" />
-
-**Let's create something worth talking about**🔥
-
 <!-- ---
 
 **Dev Joke of the Day** 😄 -->
